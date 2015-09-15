@@ -1,0 +1,1 @@
+<img src="../img/alfa-logo-2015.png" style="width: 17%; height: 15%;">
