@@ -1,5 +1,9 @@
-#container {
+body {
+    background-color: blue;
+}
 
+#container {
+    
 }
 
 #container #header {
@@ -13,7 +17,7 @@
     width: 800px;
     min-height: 950px;
     margin: 0 auto;
-    background-color: blue;
+    background-color: white;
 }
 
 #container #footer {
