@@ -1,0 +1,24 @@
+#container {
+
+}
+
+#container #header {
+    width: 800px;
+    height: 150px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+#container #content {
+    width: 800px;
+    min-height: 950px;
+    margin: 0 auto;
+    background-color: blue;
+}
+
+#container #footer {
+    width: 800px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: green;
+}
