@@ -12,7 +12,7 @@
 
     </div>
     <div id="footer">
-
+        <?php include "../libs/footer.php"; ?>
     </div>
 
 
