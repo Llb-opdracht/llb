@@ -9,7 +9,7 @@
         <?php include "../libs/header.php"; ?>
     </div>
     <div id="content">
-
+        Dit is de content
     </div>
     <div id="footer">
         <?php include "../libs/footer.php"; ?>
