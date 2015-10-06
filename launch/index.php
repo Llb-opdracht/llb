@@ -5,16 +5,41 @@
 </head>
 <body>
 <div id="container">
-    <div id="header">
         <?php include "../libs/header.php"; ?>
-    </div>
+        <?php include "../libs/navbar.php"; ?>
     <div id="content">
-        Dit is de content
+        <div id="login">
+            <div id="log-titel">Login</div>
+            <div id="log-content">
+                <table>
+                    <tr>
+                        <td>Gebruikersnaam:</td>
+                        <td><input type="text"></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td>Wachtwoord:</td>
+                        <td><input type="text"></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <a href="">Wachtwoord vergeten?</a>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <input align="right" type="submit" value="Inloggen">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
     </div>
-    <div id="footer">
         <?php include "../libs/footer.php"; ?>
-    </div>
-
 
 </div>
 
