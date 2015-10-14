@@ -78,6 +78,31 @@ body {
     padding-bottom: 5px;
 }
 
+#open {
+    float: left;
+    width: 415px;
+    padding-top: 55px;
+    height: 145px;
+    border: solid 2px gray;
+    text-align: center;
+}
+
+#info {
+    float: right;
+    width: 470px;
+    height: 384px;
+    border: solid 2px gray;
+    padding: 15px;
+}
+
+#work {
+    float: left;
+    width: 415px;
+    height: 200px;
+    border: solid 2px gray;
+    margin-top: 10px;
+}
+
 #container #footer {
     width: 930px;
     height: 45px;

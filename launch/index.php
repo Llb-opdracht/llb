@@ -22,7 +22,7 @@
                     </tr>
                     <tr>
                         <td>Wachtwoord:</td>
-                        <td><input type="text"></td>
+                        <td><input type="password"></td>
                     </tr>
                     <tr>
                         <td>&nbsp;</td>
